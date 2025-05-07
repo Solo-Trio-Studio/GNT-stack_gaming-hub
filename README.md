@@ -1,5 +1,7 @@
 source: https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/
 
+Golang, NATS, React.js/Three.js
+
 ### Prerequisites
 
 Before starting up this project, make sure you have the necessary dependencies installed in your machine.
