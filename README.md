@@ -1,6 +1,6 @@
 source: https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/
 
-Golang, NATS, React.js/Three.js
+Go, PostgreSQL, NATS, React.js/Three.js
 
 ### Prerequisites
 
