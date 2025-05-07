@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "e",
+        "p"
+    ],
+    "key": {
+        "e": {
+            "item": "minecraft:experience_bottle
+        },
+        "p": {
+            "item": "minecraft:paper"
+        }
+    },
+    "result": {
+        "item": "minecraft:enchanted_book,
+        "count": 1
+    }
+}

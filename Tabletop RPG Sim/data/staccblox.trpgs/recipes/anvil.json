@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i", "i", "i"
+        "e", "n", "",
+        "n", "n", "n"
+    ],
+    "key": {
+        "e": {
+            "item": "minecraft:experience_bottle
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "n": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:anvil,
+        "count": 1
+    }
+}
