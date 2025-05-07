@@ -16,7 +16,7 @@ Before starting up this project, make sure you have the necessary dependencies i
 
 - [x] [NATS](https://nats.io/) - NATS is an open-source messaging system. The NATS server is written in the Go programming language
 
-
+- [x] [Three.js](https://threejs.org/manual/#en/installation) - {}
 
 #### Running Postgres Database
 
