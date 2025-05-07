@@ -1,10 +1,4 @@
-# Go Food Delivery
-
-![Coverage](https://img.shields.io/badge/Coverage-50.4%25-yellow)
-![Workflow](https://github.com/mukulmantosh/Go_Food_Delivery/actions/workflows/test.yaml/badge.svg)
-
-![background](./misc/images/background.png)
-
+source: https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go-and-react/
 
 ### Prerequisites
 
@@ -72,9 +66,3 @@ To configure the application's frontend UI, be sure to follow the instructions i
 We have covered the APIs which you can directly test out from the IDE. 
 
 ![httpclient](./misc/images/httpclient.png)
-
-### Get Set Go 🚀
-
-Once you’re ready, clone this repo in [GoLand,](https://www.jetbrains.com/go/) and you're good to go.
-
-![go_run_config](./misc/images/go_run_config.png)
