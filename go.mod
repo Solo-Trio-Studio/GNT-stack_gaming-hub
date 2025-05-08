@@ -1,4 +1,4 @@
-module Go_Food_Delivery
+module Gaming_Hub
 
 go 1.23
 
