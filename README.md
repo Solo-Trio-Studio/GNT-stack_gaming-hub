@@ -2,34 +2,18 @@ source: https://blog.jetbrains.com/go/2024/11/04/create-a-full-stack-app-with-go
 
 Windows, Go, Three.js
 
+
+
 ### Prerequisites
 
 Before starting up this project, make sure you have the necessary dependencies installed in your machine.
+
 
 ###  Installation
 
 - [x] [Go](https://go.dev/) - Go is an open source programming language that makes it simple to build secure, scalable systems.
 
-- [x] [Docker](https://www.docker.com/) - Docker helps developers bring their ideas to life by conquering the complexity of app development.
-
-- [x] [PostgreSQL](https://www.postgresql.org/) - The World's Most Advanced Open Source Relational Database
-
-- [x] [NATS](https://nats.io/) - NATS is an open-source messaging system. The NATS server is written in the Go programming language
-
-- [x] [Three.js](https://threejs.org/manual/#en/installation) - {}
-
-#### Running Postgres Database
-
-```bash
-docker run --name food-delivery -p 5432:5432 -e POSTGRES_PASSWORD=****** -d postgres
-```
-
-#### Running NATS
-
-```bash
-docker network create nats
-docker run --name nats -d --network nats --rm -p 4222:4222 -p 8222:8222 nats --http_port 8222 --cluster_name NATS --cluster nats://0.0.0.0:6222
-```
+- [x] [Three.js](https://threejs.org/manual/#en/installation) - Iprovements over p5.js
 
 
 ### Environment Variables
@@ -60,8 +44,8 @@ We are using [UnSplash](https://unsplash.com/) to generate images. So, you need 
 
 To configure the application's frontend UI, be sure to follow the instructions in this [repository][repo].
 
-
 [repo]: https://github.com/mukulmantosh/food_delivery_frontend
+
 
 ### HTTP Client
 
