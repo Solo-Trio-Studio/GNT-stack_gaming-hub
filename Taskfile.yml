@@ -3,7 +3,7 @@ tasks:
   build:
     desc: Build Application
     cmds:
-      - go build -o food_delivery ./cmd/api
+      - go build -o gaming_hub ./cmd/api
   run:
     desc: Run Application
     cmds:
