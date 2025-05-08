@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"Go_Food_Delivery/pkg/database"
-	"Go_Food_Delivery/pkg/storage"
+	"Gaming_Hub/pkg/database"
+	"Gaming_Hub/pkg/storage"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	sloggin "github.com/samber/slog-gin"
