@@ -1,5 +1,9 @@
 # WeeSVC Gorilla
-Implementation of the WeeSVC application using [Go](https://golang.org/) and the [Gorilla Mux](https://www.gorillatoolkit.org/pkg/mux) web toolkit.
+Implementation of the WeeSVC application using [Go](https://golang.org/), Templ, HTMX, Three.js and the [Gorilla Mux](https://www.gorillatoolkit.org/pkg/mux) web toolkit.
+
+Go, 
+
+tutorial: https://www.youtube.com/watch?v=L1D9zJ-Yn9U, https://github.com/weesvc/weesvc-gorilla
 
 ## Ingredients
 The following external libraries were *directly* utilized in this project.
