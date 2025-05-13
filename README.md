@@ -3,6 +3,8 @@ Implementation of the WeeSVC application using [Go](https://golang.org/), Templ,
 
 tutorial: https://www.youtube.com/watch?v=L1D9zJ-Yn9U, https://github.com/weesvc/weesvc-gorilla
 
+adding Three.js: https://threejs.org/manual/#en/installation
+
 ## Ingredients
 The following external libraries were *directly* utilized in this project.
 
