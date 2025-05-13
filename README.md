@@ -3,7 +3,7 @@ Implementation of the WeeSVC application using [Go](https://golang.org/), Templ,
 
 tutorial: https://www.youtube.com/watch?v=L1D9zJ-Yn9U, https://github.com/weesvc/weesvc-gorilla
 
-adding Three.js: internal/server/views/index.templ <script src="http://mrdoob.github.com/three.js/build/three.min.js"></script>
+adding Three.js: internal/server/views/index.templ
 
 ## Ingredients
 The following external libraries were *directly* utilized in this project.
