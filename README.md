@@ -153,11 +153,3 @@ To be a valid service, the following command MUST pass at 100%:
 ```shell script
 k6 run -e PORT=9092 https://raw.githubusercontent.com/weesvc/workbench/main/scripts/api-compliance.js
 ```
-
-## User Interface Development
-To experiment with Templ and HTMX, we incorporated a user interface into this implementation.
-
-In order to work on the UI, run the `make develop` target to start the server in "live reload"-mode.
-
-If you'd like to hear more about this addition, check out the presentation about it:
-[![Building Web Apps Using Go](https://i.ytimg.com/vi/L1D9zJ-Yn9U/maxresdefault.jpg)](https://www.youtube.com/watch?v=L1D9zJ-Yn9U)
